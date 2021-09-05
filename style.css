@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+img {
+    height: 800px;
+    width: 800px;
+}
+
+h1 {
+    font-size: 80px;
+    color: white;
+    font-family: cursive;
+}
